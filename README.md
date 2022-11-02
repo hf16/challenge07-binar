@@ -1,6 +1,6 @@
 # Challenge-07
 
-# Movie List REACT JS Menggunkan Reduc Thunk Versi Lama
+# Movie List REACT JS Menggunkan Redux Thunk Versi Lama
 Nama : Helmi Farizki
 
 Kelas : FEJS - 2
@@ -25,12 +25,8 @@ Setelah menginstall npm , lamgkah selanjutnya adalah menjalankan program app, de
 npm run start
 ```
 
-# Validasi Hasil
-1. Register (Success)
-2. Login (Success)
-3. google OAauth (Success)
-4. API dari The Movie Database (Success)
-5. Halaman Detail Kondisi Protected (Success)
+# Validasi Hasil Redux
+1. Carausel Reducer (Success) = https://github.com/hf16/challenge07-binar/blob/main/src/redux/reducers/carauselReducer.js 
 
 # Lampiran
 
