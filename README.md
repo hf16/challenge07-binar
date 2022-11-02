@@ -1,13 +1,13 @@
-# Challenge-06
+# Challenge-07
 
-# Movie List REACT JS menggunakan API TMDB + Include Login & Register
+# Movie List REACT JS Menggunkan Reduc Thunk Versi Lama
 Nama : Helmi Farizki
 
 Kelas : FEJS - 2
 
 # Hasil Porjek APP MovieList bisa diakses melalaui link berikut: 
 
-https://challenge06-hf16.vercel.app/
+http://challenge07-binar.vercel.app
 
 
 # Langkah Menjalankan Program App Movie List
