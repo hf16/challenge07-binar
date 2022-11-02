@@ -27,6 +27,13 @@ npm run start
 
 # Validasi Hasil Redux
 1. Carausel Reducer (Success) = https://github.com/hf16/challenge07-binar/blob/main/src/redux/reducers/carauselReducer.js 
+2. Carausel Actions (Success) = https://github.com/hf16/challenge07-binar/blob/main/src/redux/actions/carauselActions.js
+3. List Movie & Search Reducer (Success) = https://github.com/hf16/challenge07-binar/blob/main/src/redux/reducers/listMovieReducer.js 
+4. List Movie & Search Actions (Success) = https://github.com/hf16/challenge07-binar/blob/main/src/redux/actions/listMovieActions.js
+5. Detail Movie Reducer (Success) = https://github.com/hf16/challenge07-binar/blob/main/src/redux/reducers/detailReducer.js
+6. Detail Movie Actions (Success) = https://github.com/hf16/challenge07-binar/blob/main/src/redux/actions/detailActions.js
+7. Store (Success) = https://github.com/hf16/challenge07-binar/blob/main/src/redux/store.js
+8. Types (Success) = https://github.com/hf16/challenge07-binar/blob/main/src/redux/types.js   
 
 # Lampiran
 
